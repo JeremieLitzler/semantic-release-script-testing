@@ -14,3 +14,4 @@ Every dummy commit appends one line below.
 - feat(billing): add the monthly invoices (#3)
 - feat: dark mode for the dashboard
 - feat(search): remember the last query (#9999)
+- feat!: drop the v1 authentication endpoints (#5)
