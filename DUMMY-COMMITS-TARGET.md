@@ -13,3 +13,4 @@ Every dummy commit appends one line below.
 - feat: export the orders as CSV (#2)
 - feat(billing): add the monthly invoices (#3)
 - feat: dark mode for the dashboard
+- feat(search): remember the last query (#9999)
