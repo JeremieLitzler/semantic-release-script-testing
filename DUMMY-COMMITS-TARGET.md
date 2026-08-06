@@ -9,3 +9,4 @@ Every dummy commit appends one line below.
 - style: reformat the release script
 - fix: keep the cart total in sync (#6)
 - fix(api): return 404 instead of 500 on unknown order (#7)
+- fix: stop the login form from eating the password (#8)
