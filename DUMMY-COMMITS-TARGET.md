@@ -15,3 +15,4 @@ Every dummy commit appends one line below.
 - feat: dark mode for the dashboard
 - feat(search): remember the last query (#9999)
 - feat!: drop the v1 authentication endpoints (#5)
+- refactor: move the supabase client to its own module
