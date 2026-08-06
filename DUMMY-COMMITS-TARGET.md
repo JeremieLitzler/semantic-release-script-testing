@@ -8,3 +8,4 @@ Every dummy commit appends one line below.
 - test: cover the version bump rules
 - style: reformat the release script
 - fix: keep the cart total in sync (#6)
+- fix(api): return 404 instead of 500 on unknown order (#7)
