@@ -11,3 +11,4 @@ Every dummy commit appends one line below.
 - fix(api): return 404 instead of 500 on unknown order (#7)
 - fix: stop the login form from eating the password (#8)
 - feat: export the orders as CSV (#2)
+- feat(billing): add the monthly invoices (#3)
