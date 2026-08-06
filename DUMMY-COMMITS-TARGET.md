@@ -7,3 +7,4 @@ Every dummy commit appends one line below.
 - chore(deps): bump the linter to 9.0.0
 - test: cover the version bump rules
 - style: reformat the release script
+- fix: keep the cart total in sync (#6)
